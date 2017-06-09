@@ -1,0 +1,12 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://localhost:8080/Kiwi_Consumer/files/schemaEbMs.xsd">
+<xs:element name="moneyTransfer">
+<xs:complexType>
+<xs:sequence>
+<xs:element type="xs:int" name="From"/>
+<xs:element type="xs:int" name="To"/>
+<xs:element type="xs:string" name="Cost"/>
+<xs:element type="xs:string" name="Date"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:schema>

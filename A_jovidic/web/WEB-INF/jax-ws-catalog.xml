@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:9754/A_jovidic/EbMsWS?WSDL" uri="wsdl/localhost_9754/A_jovidic/EbMsWS.wsdl"/>
+    <system systemId="http://localhost:9754/A_jovidic/EbMsWS?xsd=1" uri="wsdl/localhost_9754/A_jovidic/EbMsWS.xsd_1.xsd"/>
+    <system systemId="http://localhost:9754/A_jovidic/EbMSWebService?WSDL" uri="wsdl/localhost_9754/A_jovidic/EbMSWebService.wsdl"/>
+    <system systemId="http://localhost:9754/A_jovidic/EbMSWebService?xsd=1" uri="wsdl/localhost_9754/A_jovidic/EbMSWebService.xsd_1.xsd"/>
+</catalog>
